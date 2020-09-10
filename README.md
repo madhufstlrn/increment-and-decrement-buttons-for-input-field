@@ -1,7 +1,7 @@
 # increment-and-decrement-buttons-for-input-field
 
 
-HTML START:
+# HTML START:
 
 
  <div class="form-group">
@@ -15,8 +15,8 @@ HTML START:
                                     </div>
                                 </div>
                                 
-   HTML END:
-   SCRIPT START:
+   # HTML END:
+   # SCRIPT START:
    
    
    <script type="text/javascript">
@@ -44,4 +44,4 @@ HTML START:
 </script>
 
 
- SCRIPT END:
+ # SCRIPT END:
